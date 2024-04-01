@@ -13,4 +13,4 @@ Pre-appending ``https://gitpod.io/#`` to this repository straight in the address
 See it for yourself. Try it out. Now!
 
 ## IC-SDK
-https://gitpod.io/#github.com/blockchains-engineering/Gitpod_IC-SDK
+https://gitpod.io/#github.com/blockchains-engineering/GitPod_IC-SDK
